@@ -1,7 +1,9 @@
-# data-analysis
-数据分析相关的代码
+# CSDN博客地址:
+https://blog.csdn.net/wxfghy
 
+# data-analysis
 对爬虫爬取的数据进行分析
+
 # 1. KNN推荐系统
 1. KNN目录下包含KNNdemo(KNN算法代码),start(读取文件启动KNN算法,推荐结果写入csv文件)
 2. copytohdfs(将本地文件发送至远程hadoop hdfs文件存储上)
